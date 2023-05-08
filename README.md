@@ -11,7 +11,10 @@ Os métodos de avaliação foram a Mean Precision Average e Acurácia (validaç�
 
 <img src="abordagem.png"/>
 
-<img src="rr_abordagem.png"/>
+<img src="realimentacao_relevancia_abordagem.png"/>
+
+<img src="reindexacao_abordagem.png"/>
+
 
 <h1>Base de Dados e Extratores</h1>
 
