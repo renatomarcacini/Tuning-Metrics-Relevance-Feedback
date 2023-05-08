@@ -9,20 +9,21 @@ Os métodos de avaliação foram a Mean Precision Average e Acurácia (validaç�
 
 <h1>Metodologia</h1>
 
+Utilização de Métodos de Acesso Métrico por meio de Realimentação de Relevância 
 <img src="abordagem.png"/>
 
+Algoritmo revisado RR Desvio Padrão
 <img src="realimentacao_relevancia_abordagem.png"/>
 
+Metodologia de reindexação do Método de Acesso Métrico
 <img src="reindexacao_abordagem.png"/>
 
 <h1>Base de Dados e Extratores</h1>
 Extratores de Características: <a href="https://github.com/giakou4/pyfeats">https://github.com/giakou4/pyfeats</a>
 
-COVID-19 Radiography Database: <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database">https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database</a>
-
-BUSI-BREAST Database: <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset">https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset</a>
-
-COREL-1000 Database: <a href="https://www.kaggle.com/datasets/elkamel/corel-images">https://www.kaggle.com/datasets/elkamel/corel-images</a>
+COVID-19 Radiography Database: <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database" target="_blank">https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database</a>
+BUSI-BREAST Database: <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset" target="_blank">https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset</a>
+COREL-1000 Database: <a href="https://www.kaggle.com/datasets/elkamel/corel-images" target="_blank">https://www.kaggle.com/datasets/elkamel/corel-images</a>
  
 
 
