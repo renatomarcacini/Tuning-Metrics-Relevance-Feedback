@@ -26,7 +26,7 @@ COREL-1000 Database: <a href="https://www.kaggle.com/datasets/elkamel/corel-imag
  
 <h1>Etapas para Execução dos Códigos</h1>
 
-1. Extração de Características: Em `scripts/1_extracao_de_caracteristicas` contém os códigos relacionados para extração de características do tipo `gray histogram` e `textures`. Cada código gera o csv contendo o vetor de características da imagens da base de dados e informações complementares.
+1. Extração de Características: Em `scripts/1_extracao_de_caracteristicas` contém os códigos relacionados para extração de características do tipo `gray histogram` e `textures`. Cada código gera o csv gerando o vetor de características das imagens da base de dados e informações complementares.
 
 2. Experimentos do artigo: Em `scripts/2_experimento_google_colab` contém o código dos experimentos realizados do artigo. Para o funcionamento do código é preciso passar os `paths` de cada csv da base de dados que estejam localizados no Google Drive.
 
