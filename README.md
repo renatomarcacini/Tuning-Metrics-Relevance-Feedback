@@ -24,6 +24,13 @@ COVID-19 Radiography Database: <a href="https://www.kaggle.com/datasets/tawsifur
 BUSI-BREAST Database: <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset" target="_blank">https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset</a><br>
 COREL-1000 Database: <a href="https://www.kaggle.com/datasets/elkamel/corel-images" target="_blank">https://www.kaggle.com/datasets/elkamel/corel-images</a>
  
+<h1>Etapas para Execução dos Códigos</h1>
+
+1. Extração de Características: Em `scripts/1_extracao_de_caracteristicas` contém os códigos relacionados para extração de características do tipo `gray histogram` e `textures`. Cada código gera o csv contendo o vetor de características da imagens da base de dados e informações complementares.
+
+2. Experimentos do artigo: Em `scripts/2_experimento_google_colab` contém o código dos experimentos realizados do artigo. Para o funcionamento do código é preciso passar os `paths` de cada csv da base de dados que estejam localizados no Google Drive.
+
+3. Funções Ponderadas no MAM: Em `scripts/3_funcao_distancia_ponderada_slimtree` contém os códigos relacionados a implementaçao de funções de distância ponderadas no método de acesso métrico Slim-Tree, os códigos foram executados no SO Ubuntu 24 e precisam ser acoplados na biblioteca arboretum disponibilizada em: https://bitbucket.org/gbdi/arboretum/src/master/   
 
 
 
